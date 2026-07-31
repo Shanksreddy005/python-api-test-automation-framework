@@ -259,16 +259,16 @@ The code coverage reaches **83%** statement coverage. Executing `make coverage` 
 ## 🖼️ Visual Artifacts
 
 ### Test Suite Execution
-![Pytest Execution Results](images/pytest-results.png)
+![Pytest Execution Results](images/pytest.png)
 
 ### Interactive HTML Test Report
-![HTML Test Report Screenshot](images/html-report.png)
+![HTML Test Report Screenshot](images/html_report.png)
 
 ### Statement Code Coverage Report
-![Coverage Report Screenshot](images/coverage-report.png)
+![Coverage Report Screenshot](images/coverage.png)
 
 ### GitHub Actions CI/CD Pipeline Matrix
-![GitHub Actions Run Matrix](images/github-actions.png)
+![GitHub Actions Run Matrix](images/actions.png)
 
 ---
 
@@ -292,4 +292,4 @@ The code coverage reaches **83%** statement coverage. Executing `make coverage` 
 
 ## ✍️ Author
 
-*   **Your Name** – [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/YOUR_USERNAME)
+*   **Palagiri Shashank Reddy** – [LinkedIn](https://www.linkedin.com/in/shashank-reddy-147227260/) | [GitHub](https://github.com/Shanksreddy005)
