@@ -7,7 +7,7 @@
 ![Tests](https://img.shields.io/badge/Tests-25_Passing-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-[![GitHub Actions](https://github.com/Shanksreddy005/python-api-test-automation-framework/actions/workflows/test.yml/badge.svg)](https://github.com/YOUR_USERNAME/python-api-test-automation-framework/actions)
+[![GitHub Actions](https://github.com/Shanksreddy005/python-api-test-automation-framework/actions/workflows/test.yml/badge.svg)](https://github.com/Shanksreddy005/python-api-test-automation-framework/actions)
 ---
 
 ## 📋 Table of Contents
@@ -43,18 +43,20 @@ The framework validates API functionality, response contracts, performance, and 
 Although JSONPlaceholder is used as the system under test, the framework is designed to be reusable for any REST API by simply changing the configuration.
 
 ---
-## Highlights
+## Enterprise API Test Automation Framework
 
-- 25 automated API tests
-- 100% test pass rate
-- 83% code coverage
-- Response schema validation
-- Pydantic model validation
-- JSON Schema validation
-- HTML reporting
-- GitHub Actions CI/CD
-- Connection pooling & retry strategy
-- Production-style reusable API client
+A production-ready REST API automation framework built with **Python**, **pytest**, and **GitHub Actions** following modern SDET best practices.
+---
+### Highlights
+
+- ✅ 25 Automated API Tests
+- ✅ 100% Test Pass Rate
+- ✅ 83% Code Coverage
+- ✅ JSON Schema Validation
+- ✅ Pydantic Model Validation
+- ✅ HTML Reports
+- ✅ GitHub Actions CI/CD
+- ✅ Connection Pooling & Retry Strategy
 ---
 
 ## 🎯 Business Value & Objective
@@ -315,6 +317,19 @@ The code coverage reaches **83%** statement coverage. Executing `make coverage` 
 ### GitHub Actions CI/CD Pipeline Matrix
 ![GitHub Actions Run Matrix](images/actions.png)
 
+---
+## Project Metrics
+
+| Metric | Value |
+|---------|------:|
+| Automated Tests | 25 |
+| Pass Rate | 100% |
+| Code Coverage | 83% |
+| API Endpoints | 3 |
+| Python Versions | 3.10–3.12 |
+| HTML Reports | ✔ |
+| CI/CD | GitHub Actions |
+| Validation | JSON Schema + Pydantic |
 ---
 
 ## 🏆 Skills Demonstrated
