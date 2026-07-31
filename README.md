@@ -5,7 +5,6 @@
 ![Requests](https://img.shields.io/badge/Requests-HTTP_Client-black?style=for-the-badge)
 ![Coverage](https://img.shields.io/badge/Coverage-83%25-success?style=for-the-badge)
 ![Tests](https://img.shields.io/badge/Tests-25_Passing-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 [![GitHub Actions](https://github.com/Shanksreddy005/python-api-test-automation-framework/actions/workflows/test.yml/badge.svg)](https://github.com/Shanksreddy005/python-api-test-automation-framework/actions)
 
