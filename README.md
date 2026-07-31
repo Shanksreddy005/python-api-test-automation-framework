@@ -8,29 +8,6 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 [![GitHub Actions](https://github.com/Shanksreddy005/python-api-test-automation-framework/actions/workflows/test.yml/badge.svg)](https://github.com/Shanksreddy005/python-api-test-automation-framework/actions)
----
-
-## 📋 Table of Contents
-1. [Project Overview](#-project-overview)
-2. [Business Value & Objective](#-business-value--objective)
-3. [Framework Architecture](#-framework-architecture)
-4. [Tech Stack](#-tech-stack)
-5. [Repository Structure](#-repository-structure)
-6. [Framework Design & Execution Flow](#-framework-design--execution-flow)
-7. [Testing Strategy & Test Categories](#-testing-strategy--test-categories)
-8. [Features](#-features)
-9. [Assertions & Validation](#-assertions--validation)
-10. [Fixtures](#-fixtures)
-11. [Logging](#-logging)
-12. [CI/CD (GitHub Actions)](#-cicd-github-actions)
-13. [Installation](#-installation)
-14. [Configuration](#-configuration)
-15. [Running Tests](#-running-tests)
-16. [Reporting & Code Coverage](#-reporting--code-coverage)
-17. [Visual Artifacts](#-visual-artifacts)
-18. [Skills Demonstrated](#-skills-demonstrated)
-19. [Future Improvements](#-future-improvements)
-20. [Author](#-author)
 
 ---
 
@@ -319,18 +296,18 @@ The code coverage reaches **83%** statement coverage. Executing `make coverage` 
 ![GitHub Actions Run Matrix](images/actions.png)
 
 ---
-## Project Metrics
+## 📈 Project Metrics
 
 | Metric | Value |
 |---------|------:|
 | Automated Tests | 25 |
 | Pass Rate | 100% |
 | Code Coverage | 83% |
-| API Endpoints | 3 |
+| API Endpoints Tested | 3 |
 | Python Versions | 3.10–3.12 |
-| HTML Reports | ✔ |
 | CI/CD | GitHub Actions |
 | Validation | JSON Schema + Pydantic |
+
 ---
 
 ## 🏆 Skills Demonstrated
