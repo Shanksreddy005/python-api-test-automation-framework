@@ -1,7 +1,13 @@
 # Python API Test Automation Framework
 
-A production-grade, recruiter-ready test automation framework designed to validate RESTful APIs with high reliability, structured logging, and robust validation mechanisms.
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-8.x-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-HTTP_Client-black?style=for-the-badge)
+![Coverage](https://img.shields.io/badge/Coverage-83%25-success?style=for-the-badge)
+![Tests](https://img.shields.io/badge/Tests-25_Passing-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
+[![GitHub Actions](https://github.com/Shanksreddy005/python-api-test-automation-framework/actions/workflows/test.yml/badge.svg)](https://github.com/YOUR_USERNAME/python-api-test-automation-framework/actions)
 ---
 
 ## 📋 Table of Contents
@@ -30,12 +36,25 @@ A production-grade, recruiter-ready test automation framework designed to valida
 
 ## 🔍 Project Overview
 
-This repository hosts a robust, enterprise-caliber API test automation framework written in Python. It targets the publicly available JSONPlaceholder REST API (simulating a microservices ecosystem) to validate core CRUD operations, enforce strict payload contracts, verify response latency SLAs, and analyze system behavior under edge conditions. 
+This project demonstrates how automated REST API testing is implemented in production environments using Python and pytest.
 
-*   **Total Tests**: 25 automated API tests
-*   **Test Status**: 25/25 tests passing (100% pass rate)
-*   **Code Coverage**: 83% statement coverage
+The framework validates API functionality, response contracts, performance, and error handling while following clean architecture principles used in modern QA Automation and SDET teams.
 
+Although JSONPlaceholder is used as the system under test, the framework is designed to be reusable for any REST API by simply changing the configuration.
+
+---
+## Highlights
+
+- 25 automated API tests
+- 100% test pass rate
+- 83% code coverage
+- Response schema validation
+- Pydantic model validation
+- JSON Schema validation
+- HTML reporting
+- GitHub Actions CI/CD
+- Connection pooling & retry strategy
+- Production-style reusable API client
 ---
 
 ## 🎯 Business Value & Objective
@@ -65,6 +84,32 @@ graph TD
     Reports --> GHA[GitHub Actions CI/CD Pipeline]
 ```
 
+---
+## Engineering Highlights
+
+✔ Reusable API Client
+
+✔ Session Pooling
+
+✔ Retry Strategy
+
+✔ JSON Schema Validation
+
+✔ Pydantic Models
+
+✔ Data-driven Tests
+
+✔ HTML Reporting
+
+✔ Code Coverage
+
+✔ GitHub Actions CI/CD
+
+✔ Custom Assertion Library
+
+✔ Environment-based Configuration
+
+✔ Parameterized Testing
 ---
 
 ## 🛠️ Tech Stack
