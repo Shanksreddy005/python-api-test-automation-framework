@@ -45,7 +45,8 @@ def assert_header(response: Response, header: str, expected_value: str) -> None:
 def assert_empty_response(response: Response) -> None:
     """Asserts that the response body is empty."""
     content = response.text.strip()
-    # Handle cases where an empty array or object is technically empty, or just no content
+    # Handle cases where an empty array or object is technically
+    # empty, or just no content
     is_empty = content in ("", "{}", "[]")
     message = f"Expected empty response, got '{content}'"
     log_and_assert(is_empty, message)
