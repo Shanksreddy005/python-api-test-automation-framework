@@ -1,0 +1,13 @@
+pytest
+pytest-html
+pytest-cov
+requests
+python-dotenv
+pydantic
+jsonschema
+black
+ruff
+flake8
+isort
+pre-commit
+tox

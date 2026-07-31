@@ -1,0 +1,26 @@
+{
+  "valid_posts": [
+    {
+      "title": "Automated Testing Basics",
+      "body": "Introduction to API testing with Python.",
+      "userId": 1
+    },
+    {
+      "title": "Advanced Pytest",
+      "body": "Using fixtures and markers.",
+      "userId": 2
+    }
+  ],
+  "invalid_posts": [
+    {
+      "title": "",
+      "body": "Empty title",
+      "userId": 1
+    },
+    {
+      "title": 12345,
+      "body": "Integer title",
+      "userId": 1
+    }
+  ]
+}
